@@ -24,19 +24,59 @@ Concept:
 
 features: 
 
-1. remember me : 
-	cookie with expiry time to use it to replicate remember me feature
-2. Add Projects
-3. Assign Project head
-4. Assign Project members
+	1. remember me : 
+		cookie with expiry time to use it to replicate remember me feature
+	2. Add Projects
+	3. Assign Project head
+	4. Assign Project members
 
-8. users
-9. define user types
-10. granting user powers
+	8. users
+	9. define user types
+	10. granting user powers
 
-5. Add recent activity
-6. recent issues
-7. report issues
+	5. Add recent activity
+	6. recent issues
+	7. report issues
+
+Brainstorming required concepts:
+
+	1. defining users
+	2. way to mention users 
+	3. 
+
+
+Implementation order:
+	1. projects
+
+		=> creating a side icon for projects
+		=> making url with projects
+		=> an empty page for projects page
+		=> four panels showing different demo projects
+		=> each project must show recent updates in it
+
+	2. layout
+		=>  adding profile icon on the top right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

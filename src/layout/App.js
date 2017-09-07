@@ -26,7 +26,7 @@ class App extends Component {
     super(props);
     console.log(this.props);
     if(this.props.user.logout){
-      this.props.router.push("/login");
+      // this.props.router.push("/login");
     }
   }
 
@@ -46,7 +46,7 @@ class App extends Component {
 
   componentWillReceiveProps(nextProps){
     if(nextProps.user.logout){
-      this.props.router.push("/login");
+      // this.props.router.push("/login");
     }
     if(nextProps.notification.type){
       this.Notify(nextProps.notification.type,
