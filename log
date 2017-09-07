@@ -1,0 +1,64 @@
+welkins:
+ 
+#1 installing modules - #####DONE#####
+#2 adding signup and login - #####DONE#####
+#3 setting up directory architecture - #####DONE#####
+#4 deciding on things to add 
+#5 matching with the original concept of the application
+#6 a timeline to decide the implementation time of the features
+
+Concept: 
+
+#a project management software
+
+#projects
+	# project names
+	# add project
+#issues
+	# recent issues
+	# report issues
+#users
+	# add user
+	# list users
+#
+
+features: 
+
+1. remember me : 
+	cookie with expiry time to use it to replicate remember me feature
+2. Add Projects
+3. Assign Project head
+4. Assign Project members
+
+8. users
+9. define user types
+10. granting user powers
+
+5. Add recent activity
+6. recent issues
+7. report issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
