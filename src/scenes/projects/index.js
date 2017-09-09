@@ -58,34 +58,37 @@ class PromocodeClass extends Component {
             <Row gutter={16}>
               <Col span={12}>
                 <Card title="Tail Manufacture unit" extra={<a href="#">More</a>}>
-                  <p>Card content</p>
-                  <p>Card content</p>
-                  <p>Card content</p>
+                  <p>Activity one</p>
+                  <p>Activity two</p>
+                  <p>Activity three</p>
                 </Card>
               </Col>
               <Col span={12}>
                 <Card title="Seats enhance project" extra={<a href="#">More</a>}>
-                  <p>Card content</p>
-                  <p>Card content</p>
-                  <p>Card content</p>
+                  <p>Activity one</p>
+                  <p>Activity two</p>
+                  <p>Activity three</p>
                 </Card>
-              </Col>
-            </Row>
-            
-            <Row gutter={16}>
+              </Col>            
               <Col span={12}>
                 <Card title="Radio reach project" extra={<a href="#">More</a>}>
-                  <p>Card content</p>
-                  <p>Card content</p>
-                  <p>Card content</p>
+                  <p>Activity one</p>
+                  <p>Activity two</p>
+                  <p>Activity three</p>
                 </Card>
               </Col>
               <Col span={12}>
                 <Card title="Aerodynamic support project" extra={<a href="#">More</a>}>
-                  <p>Card content</p>
-                  <p>Card content</p>
-                  <p>Card content</p>
+                  <p>Activity one</p>
+                  <p>Activity two</p>
+                  <p>Activity three</p>
                 </Card>
+              </Col>
+
+              <Col span={12}>
+                <Button type="dashed" onClick={this.add} style={{ width: '100%' }}>
+                  <Icon type="plus" /> Add Project
+                </Button>
               </Col>
             </Row>
             
